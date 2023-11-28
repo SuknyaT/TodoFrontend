@@ -1,8 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 # ToDo Application
 
 This project has two features which includes add todo item and list todo with server side pagination
