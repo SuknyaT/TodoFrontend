@@ -144,7 +144,7 @@ function App() {
       />
       <div>
         <div className='title'>
-          <h2>TODO </h2>
+          <h2>TODO</h2>
           <div className='todo-count'>{totalTodos}</div>
         </div>
         <div className='todo-list-container'>
